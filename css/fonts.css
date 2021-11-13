@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'NEXT ART';
+    src: url(../fons/NEXT\ ART_Bold.otf);
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'NEXT ART';
+    src: url(../fons/NEXT\ ART_Regular.otf.otf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Arodora Pro';
+    src: url(../fons/ArodoraPro-LightItalic.otf);
+    font-weight: 300;
+}
+@font-face {
+    font-family: 'Poppins';
+    src: url(../fons/Poppins-Bold.ttf);
+    font-weight: 700;
+}
+@font-face {
+    font-family: 'Poppins';
+    src: url(../fons/Poppins-Regular.ttf);
+    font-weight: 400;
+}
